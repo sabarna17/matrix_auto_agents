@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "genai-sabarna",
+    "private_key_id": "cb0c7b7a01ef18f6e8ed061ef81e140663ea72fb",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1mFppmN/dIjUm\n7YvCCcr0z5yRuS9KI1m5HzB5TuZPnUYZuRhXnh3PWzpPVRNMm5kCe9w4Ae/nli1D\ndSQtxCjI+vJ4dZB35yTOrDS54dIMKpZu65fvZTT5mXU6NAzy8xbGEfEPcN3MKk0I\ncWD1eW/tc6OMtsrU/4I73mmIEM2fA6ddT1vTKYiZy6WH8/pqhBml1yR2J2lq/cpi\nH4WQOfoBF4tLBKKSzp00LZpLORg4TAzI9QDsBALvykw1PuHgEpnRkCGPBCLUveAu\n0ZbfSgIur99FCVZc3bex1n9bizSdnWeO93NbUnXy5j5rj3PY/xSmYnbekv02LY0y\nJ79WuGKHAgMBAAECggEAC22xrvigih23g6IqjAUqwTp5q5AggkV0RZrJZbEJ/JO0\n0DSebBE25hBjPI/pnYYjXI0oAFxa2VPRuG+cXcb9HBzy+pLHi0xAPEOJM/Oa0Qoz\nGnr4Pmg7q8O1JXsWH4od8kw5xBOB2fIFlBTymbBRU3vWHKp6XGpSK2tlb9tC3ZF1\nqKB4kA/anFPyO5gnTgPYP92z9BK+7Lw4ecFkk9fGQAL7yc2jSAdPbW9G/Ev2jOon\nt7lC3AB+sfd9W25fnhHsAr/8Sc95tqssgXUA4afZOjTQ1Ahz5l/LUCRjhCturvF5\nimkpROg+5kwKOnMphQiH+x0yFo16DizusohOJtII0QKBgQDZn+XR5ItWAfY8bL8C\nmRLPJR4iO+LnJOXqbcjDejReMIgYsIVwcm8155LyNn1+c/qc9PFlbO8oKb+rsPWo\nl3UWgzFzsDq1Sma867J+JFBvw1gVVQsGREzTVgsC/qqDhA23eVTIDyYj8AWy+LfF\nQftfj+D7jvjUNYsbJzhKaSnE8QKBgQDVnf9r64z+ecISlK5pHPBr0gD851UM15Jq\nTkil5Hg+ItkijIFNBc1ETwMXVWFFHRASJNP++azQ8CyeyKPHNLhSQvsGw7Vwwk1C\nEiYusU8b7Yc069kzRquprVcBTyH/IJCukimgBycGiKNAOQB2b+iNOy1V9ihx1HlN\nXNWIKUk+9wKBgE/C/ySSs07uoSU8ZjW5jN9HJ2g8ssktCOeHHVIn9BGhkAAckovI\nJWKIYZ9MwWobb/se+2rFJlJ+GrX+wcrs2AlMRE+2g432mvkbGeyJusF7w0juRoAh\ngFbk7lxGopBZUf2xBpXcl4oMaspRxmkR6eP4g+kvWZvNlBJ7qXH8YUbBAoGBAJ9D\n41G1FzQL15Q+4iJgfygENNRaLWEbwIAdybBVvQimtrk5hJXGg5owRp+4+oKq/nZo\nmt55jE1jJAFmmiVFuz8pzTrn43kkhLGEEo+xhsfNuobMaO3//LDPGhVRyIkM4JIn\nS32Sl5gZe43AcgXbvci+nDiBBPqJbb8uPc386i1VAoGBAJDR+pZRRKna/OrVzU6W\nvoRSKRF7L8bLUGcBrGMsopTxXg4CxLMs4XnwC0vvXvGgX3M1dlKMStEbTfX0qlfd\nhzK5buqwgsaSzFPxsnbhL0u198Vzbkmwr3nXGvHKUIE03juWq9akyKpxF4a3Hlka\n9W94lF7Vbwk8IMj9yW8QoTnW\n-----END PRIVATE KEY-----\n",
+    "client_email": "vertex-genai@genai-sabarna.iam.gserviceaccount.com",
+    "client_id": "108374147322950723149",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertex-genai%40genai-sabarna.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
